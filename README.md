@@ -1,27 +1,17 @@
-# Minimal Mistakes remote theme starter
-
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
 ---
 
-## Troubleshooting
+---
+# HERMAN NOBLE BLOG
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+This blog is geared towards looking at the various opportunities available in the Data Science field. It will constantly update be updated to include the various exciting projects involving Data Science, research being carried out in the academia regarding the field of Data Science. The blog also intends on sharing various job opportunities available in the wonderful space of **_Data Science_** and **_Data Engineering_**.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+***
+
+## About Herman
+
+* Hardworking and very dedicated to tasks and assignment
+* Very Enthusiastic about the Data Engineering field
+* Not your best programmer.
+* Loves Business (sales)
+* Holds a degree in Computer Science and  Engineering from the University of Mines and Technology.
+* .......and he loves to have fun and watch football.  CFC
